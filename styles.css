@@ -488,3 +488,12 @@ body ul {
     line-height: 1.8rem;
   }
 }
+.attribution{
+  height: 35px;
+  background-color: var(--Dark-Violet);
+  color: var(--Very-Light-Gray);
+  text-align: center;
+}
+.attribution a{
+  color:var(--Very-Light-Gray)
+}
